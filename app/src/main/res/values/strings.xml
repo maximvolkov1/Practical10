@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical10</string>
+    <string name="nextTip">Другая заметка</string>
+    <string name="yournote">Напишите здесь заметку</string>
+    <string name="lastSheep">Это последняя страница</string>
+    <string name="font_plus">Увеличить шрифт</string>
+    <string name="font_minus">Уменьшить шрифт</string>
+    <string name="clear">Очистить</string>
+</resources>
